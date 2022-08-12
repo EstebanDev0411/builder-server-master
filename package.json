@@ -72,6 +72,7 @@
     "tslint": "^6.1.3",
     "typescript": "^4.1.5",
     "uuid": "^8.3.2",
+    "ts-node": "^10.2.1",
     "web3x": "^4.0.6"
   },
   "devDependencies": {
@@ -88,7 +89,6 @@
     "prettier": "^2.2.1",
     "supertest": "^6.1.6",
     "ts-jest": "^27.0.5",
-    "ts-node": "^10.2.1",
     "tslint-plugin-prettier": "^2.0.1"
   }
 }
